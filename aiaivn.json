@@ -1,0 +1,304 @@
+{
+  "header": {
+    "logo_alt": "Logo của AIAIVN",
+    "navigation": {
+      "home": "Trang Chủ",
+      "intro": "Giới Thiệu",
+      "solution": "Giải Pháp",
+      "services": "Dịch Vụ",
+      "contact": "Liên Hệ"
+    },
+    "Languages": {
+      "language": "Ngôn ngữ",
+      "languageViet": "Viet",
+      "languageEng": "Eng",
+      "languageVietFull": "Tiếng Việt",
+      "languageEngFull": "Tiếng Anh"
+    }
+  },
+  "footer": {
+    "title": "Liên Hệ",
+    "name": "Ms. Trang",
+    "quote": "(Không phải chatbot)",
+    "position": "Trưởng phòng Sales & Marketing",
+    "dn_title": "Đà Nẵng",
+    "dn_address_1": "Tầng 6, 484-486 Đường 2/9,",
+    "dn_address_2": "Quận Hải Châu",
+    "hcm_title": "TP. HCM",
+    "hcm_address_1": "Tầng 5, Tòa nhà Scetpa,",
+    "hcm_address_2": "19A Đường Cộng Hoà, Quận Tân Bình",
+    "copyright": "© 2024 Copyright AIAIVN. All rights reserved"
+  },
+  "home": {
+    "banner_title": "TRỢ LÝ AI",
+    "subbanner_title1": "Biến \"lời hỏi thăm\"",
+    "subbanner_title2": "thành khách lâu năm",
+    "banner_btn": "Tìm hiểu thêm",
+    "solution_title": "Dịch vụ, giải pháp số",
+    "list_section": {
+      "vision_target_title": "Tầm nhìn",
+      "vision_title": "Không ngừng\ntiên phong",
+      "vision_description": "Cùng doanh nghiệp Việt đổi mới sáng tạo, tiên phong áp dụng trí tuệ nhân tạo.",
+      "mission_target_title": "Sứ mệnh",
+      "mission_title": "Nâng tầm\ndoanh nghiệp Việt",
+      "mission_description": "Kết hợp chuyên môn AI với tinh thần Việt, mở ra cơ hội tăng trưởng mạnh mẽ."
+    },
+    "solutions": {
+      "card_title": "Giải pháp",
+      "card_btn": "Tìm hiểu thêm",
+      "virtual_assistant_title": "Trợ lý AI\nTrợ lý như ý",
+      "virtual_assistant_subtitle": "TÍCH HỢP TRÍ TUỆ NHÂN TẠO",
+      "virtual_assistant_content": "Cá nhân hóa từng điểm chạm để mọi trải nghiệm khách hàng đều đáng nhớ.",
+      "ads_title": "Quảng cáo\nkhôn hơn cáo!",
+      "ads_subtitle": "BỞI TRÍ TUỆ NHÂN TẠO",
+      "ads_content": "Hệ thống AI-Personalized Ad bắt chính xác từng đối tượng. Khách hàng mục tiêu của bạn không thể lướt qua.",
+      "bi_title": "Trí tuệ bằng...\n10 cái đầu!",
+      "bi_subtitle": "TÍCH HỢP TRÍ TUỆ NHÂN TẠO",
+      "bi_content": "Thị trường biến chuyển đến đâu, hệ thống AI giúp bạn nắm thông tin đến đó. Dữ liệu luôn đứng về phía bạn."
+    },
+    "services": {
+      "services_title": "AIAIVN sát cánh doanh nghiệp",
+      "technology_title": "Công nghệ \"Sát thủ\"",
+      "technology_description": "Tiên phong tận dụng các nền tảng AI và Cloud hàng đầu như… nhằm mang lại hiệu quả đột phá và tối ưu cho khách hàng.",
+      "tailored_solution_title": "Giải pháp sát sườn",
+      "tailored_solution_description": "Mỗi câu chuyện kinh doanh, một giải pháp AI chuyên biệt. Đội ngũ kỹ sư cao cấp với kinh nghiệm từ Microsoft, Meta, Google và Amazon sẽ đáp ứng sát sao nhu cầu thực tế và mô hình kinh doanh của doanh nghiệp.",
+      "cost_title": "Chi phí sát nút",
+      "cost_description": "Trí tuệ nhân tạo, do chính người Việt tạo. Vừa tiết kiệm chi phí vừa đảm bảo trải nghiệm tích hợp AI mượt mà hiệu quả."
+    },
+    "partner_title": "Đối tác",
+    "waiting_title": "A.I không chờ một ai",
+    "waiting_btn": "AIAIVN ĐANG CHỜ BẠN"
+  },
+  "about": {
+    "banner_title1": "Dẫn sóng công nghệ",
+    "banner_title2": "cùng doanh nghiệp Việt",
+    "scg_intro": "ra đời từ niềm đam mê công nghệ của một nhóm chuyên gia người Việt, những người sau nhiều năm làm việc tại các tập đoàn công nghệ hàng đầu như Google, Microsoft, Amazon và Meta, đã cảm thấy một khao khát sâu sắc là mang những đổi mới đẳng cấp thế giới trở về Việt Nam.",
+    "aiaivn_intro1": "công ty con của SCG tại Việt Nam, hiện thực hóa giấc mơ này—kết\n              nối khoảng cách giữa Việt Nam và tuyến đầu công nghệ toàn cầu, đặc\n              biệt trong lĩnh vực GenAI. Bằng cách kết hợp chuyên môn đẳng cấp\n              thế giới với hiểu biết địa phương và giá cả cạnh tranh, chúng tôi\n              đang biến việc tích hợp công nghệ không chỉ là một khả năng, mà là\n              một thực tế cho các doanh nghiệp trên khắp Việt Nam. Chúng tôi\n              mong muốn tăng cường năng lực các doanh nghiệp Việt Nam, đảm bảo\n              họ khai thác sức mạnh của AI để mở khóa tiềm năng tối đa, nâng cao\n              trải nghiệm người dùng và phát triển mạnh mẽ trong một thế giới\n              cạnh tranh.",
+    "aiaivn_intro2": "Sứ mệnh của chúng tôi đơn giản nhưng sâu sắc: giúp các doanh\n              nghiệp Việt Nam vươn lên cùng làn sóng AI toàn cầu, đảm bảo họ\n              không chỉ là người tham gia mà còn là những nhà lãnh đạo trong kỷ\n              nguyên số. Cùng nhau, chúng tôi đang biến niềm đam mê công nghệ\n              thành một lực lượng mạnh mẽ cho tương lai của Việt Nam.",
+    "tech_adv_title": "Ban cố vấn công nghệ",
+    "tech_adv_description": "Một đội ngũ gồm các nhà lãnh đạo ngành và học giả hàng đầu, kết hợp chuyên môn tiên tiến từ Microsoft, Meta, Google, Amazon và các startup tiên phong, để thúc đẩy đổi mới công nghệ và duy trì lợi thế cạnh tranh của chúng tôi trong bối cảnh GenAI đang phát triển nhanh chóng.",
+    "founders": {
+      "title": "Ban chiến lược và phát triển kinh doanh",
+      "description": "Một đội ngũ gồm các chuyên gia kỳ cựu trong ngành, kết hợp giữa chuyên môn đẳng cấp thế giới và khả năng lãnh đạo tầm nhìn xa để thúc đẩy đổi mới và tăng trưởng chiến lược, đảm bảo công ty của chúng tôi luôn dẫn đầu trong cuộc cách mạng GenAI.",
+      "founder_title": "Đội ngũ",
+      "founder_learnmore": "Tìm hiểu thêm",
+      "founder_1": {
+        "name": "Anh Anthony Tuan Phan",
+        "title": "CEO",
+        "details_1": "Nguyên Trưởng Nhóm Kỹ Thuật tại Facebook, Ebay và Amazon",
+        "details_2": "Nguyên Giám đốc Kiến Trúc Dữ liệu tại Techcombank"
+      },
+      "founder_2": {
+        "name": "Anh Yasuno Ken",
+        "title": "COO",
+        "details_1": "Nguyên Giám Đốc Điều Hành tại Global Cybersoft",
+        "details_2": "Nguyên Phó Chủ Tịch tại Hitachi Consulting Global Service"
+      },
+      "founder_3": {
+        "name": "Chị Nguyễn Thị Mỹ Hương",
+        "title": "CGO",
+        "details_1": "Nguyên Viện trưởng, Nghiên cứu và Đào tạo Việt – Anh (VNUK), Đại học Đà Nẵng",
+        "details_2": "Tiến sĩ tại trường Đại học Manchester (Anh Quốc)"
+      }
+    },
+    "carousel": {
+      "vision": {
+        "subtitle": "TẦM NHÌN",
+        "title": "Trở thành lực lượng tiên phong",
+        "content": "trong việc đem đến cuộc cách mạng cho các doanh nghiệp Việt Nam thông qua công nghệ trí tuệ nhân tạo tiên tiến."
+      },
+      "mission": {
+        "subtitle": "Sứ mệnh",
+        "title": "Nâng cao năng lực",
+        "content": "cho các doanh nghiệp thông qua các giải pháp hàng đầu dựa trên trí tuệ nhân tạo thông qua việc kết hợp giữa chuyên môn ở đẳng cấp thế giới và sự am hiểu văn hóa địa phương nhằm cung cấp nguồn công nghệ đổi mới sáng tạo với chi phí hợp lý."
+      }
+    },
+    "technical_advisors": {
+      "advisor_1": {
+        "gender": "Anh",
+        "name": "James Nguyen",
+        "description_1": "Kiến trúc sư cấp cao, mảng giải pháp lưu trữ đám mây tại Microsoft"
+      },
+      "advisor_2": {
+        "gender": "Anh",
+        "name": "Nguyen Bach",
+        "description_1": "Kiến trúc sư cấp cao tại Microsoft",
+        "description_2": "Tiến sĩ ngành Khoa học Máy tính tại trường Đại học Carnegie Mellon (Mỹ)"
+      },
+      "advisor_3": {
+        "gender": "Anh",
+        "name": "Hoang Trinh",
+        "description_1": "Quản lý kỹ thuật mảng trí tuệ nhân tạo và máy học tại Meta",
+        "description_2": "Nguyên kỹ sư trưởng, mảng máy học tại Ebay"
+      },
+      "advisor_4": {
+        "gender": "Anh",
+        "name": "Vu Le",
+        "description_1": "Quản lý nghiên cứu cấp cao tại Microsoft",
+        "description_2": "Tiến sĩ tại trường Đại học California (Mỹ)"
+      },
+      "advisor_5": {
+        "gender": "Anh",
+        "name": "Andrew Do",
+        "description_1": "Trưởng nhóm Giải pháp Kỹ thuật tại Google"
+      },
+      "advisor_6": {
+        "gender": "Anh",
+        "name": "Lan Duy Nguyen",
+        "description_1": "Đồng sáng lập & Phó chủ tịch điều hành tại Veramine Inc.",
+        "description_2": "Nguyên kỹ sư cấp cao tại Microsoft.",
+        "description_3": "Tiến sĩ tại trường Đại học Wollongong (Úc)."
+      },
+      "advisor_7": {
+        "gender": "Anh",
+        "name": "Khang Doan",
+        "description_1": "Trưởng nhóm kỹ sư phần mềm tại Stripe",
+        "description_2": "Nguyên kỹ sư cấp cao tại Amazon",
+        "description_3": "Nguyên kỹ sư tại IBM"
+      },
+      "advisor_8": {
+        "gender": "Anh",
+        "name": "Binh Pham",
+        "description_1": "Kiến trúc sư cấp cao tại NVIDIA",
+        "description_2": "Nguyên nghiên cứu viên tại Intel (Qualcomm)",
+        "description_3": "Tiến sĩ tại trường Đại học Rutgers (Mỹ)"
+      },
+      "advisor_9": {
+        "gender": "Anh",
+        "name": "Thuan Duong Ba",
+        "description_1": "Kỹ sư phát triển phần mềm cấp cao tại Amazon AWS"
+      },
+      "advisor_10": {
+        "gender": "Anh",
+        "name": "Huy Bui",
+        "description_1": "Kỹ sư cấp cao tại Meta",
+        "description_2": "Nguyên kỹ sư cấp cao tại Amazon và Microsoft"
+      },
+      "advisor_11": {
+        "gender": "Anh",
+        "name": "Alan Luu",
+        "description_1": "Kiến trúc sư trưởng, mảng quản lý hạ tầng doanh nghiệp tại Capgemini",
+        "description_2": "Nguyên kiến trúc sư dữ liệu trưởng tại Asendia USA"
+      },
+      "advisor_12": {
+        "gender": "Anh",
+        "name": "Christopher Peery",
+        "description_1": "Kỹ sư phần mềm cấp cao tại Amazon",
+        "description_2": "Tiến sĩ ngành Khoa học Máy tính tại trường Đại học Rutgers (Mỹ)"
+      }
+    }
+  },
+  "contact": {
+    "title": "Thông tin liên hệ",
+    "description": "Hãy để lại thông tin của bạn, chúng tôi sẽ liên hệ lại trong thời gian sớm nhất.",
+    "form": {
+      "full_name": "Họ và tên bạn",
+      "email": "Email của bạn",
+      "phone_number": "Số điện thoại",
+      "product_interest": "Sản phẩm bạn quan tâm",
+      "work": "Công việc của bạn",
+      "position": "Vị trí công việc",
+      "employees": "Quy mô nhân sự",
+      "province": "Tỉnh/Thành phố",
+      "submit": "Nhận tư vấn ngay"
+    },
+    "info": {
+      "name": "Ms. Nguyễn Thị Thùy Trang",
+      "title": "Trưởng phòng Sale & Marketing",
+      "email": "trang@aiaivn.com",
+      "mobile": "0986 489 492",
+      "dn_title": "Đà Nẵng",
+      "dn_address": "Tầng 6, 484-486 Đường 2/9, Quận Hải Châu",
+      "hcm_title": "TP. HCM",
+      "hcm_address": "Tầng 5, Tòa nhà Scetpa, 19A Đường Cộng Hoà, Quận Tân Bình"
+    }
+  },
+  "service": {
+    "title": "Đi cùng AI, doanh nghiệp Việt",
+    "sub_title": "có thêm lợi thế gì?",
+    "performance": {
+      "description_1": "là lượng thời gian doanh nghiệp sẽ tiết kiệm được nhờ việc tự động hoá các đầu việc thường nhật bằng GenAI. (*)",
+      "description_2": "các doanh nghiệp hàng đầu thế giới đã tích hợp GenAI vào hoạt động kinh doanh và gặt được nhiều phản hồi tích cực. (**)",
+      "description_3": "là mức tăng trưởng ROI ước tính với các doanh nghiệp ứng dụng GenAI vào hoạt động kinh doanh và sản xuất. (***)",
+      "get_from": "*Thống kê từ McKinsey"
+    },
+    "benefits": {
+      "title": "Đồng hành cùng AIAIVN, doanh nghiệp sẽ",
+      "benefit_1": "Chuyển đổi hiệu suất",
+      "benefit_2": "Chuyển hóa trải nghiệm khách hàng",
+      "benefit_3": "Tự động hóa hoạt động vận hành",
+      "benefit_4": "Điều chỉnh tương tác theo nhu cầu khách hàng",
+      "benefit_5": "Tối ưu hóa các nỗ lực mang tính chiến lược"
+    },
+    "partner_title": "Đối tác của AIAIVN",
+    "customer_title": "Khách hàng của AIAIVN"
+  },
+  "solution": {
+    "title": "Trợ lý Số",
+    "sub_title": "Tích hợp Trí tuệ Nhân tạo",
+    "description": "Với hỗ trợ hơn 50 ngôn ngữ, Trợ lý Số Tích hợp Trí tuệ Nhân tạo của chúng tôi đảm bảo hành trình cá nhân hóa, đặt chỗ dễ dàng và chăm sóc khách hàng 24/7, mang đến những giao dịch suôn sẻ và trải nghiệm đáng nhớ được tùy chỉnh theo sở thích độc đáo của từng khách, mỗi khi bạn du lịch hay dùng bữa.",
+    "digital_assistant": {
+      "title": "TRỢ LÝ SỐ",
+      "sub_title_1": "Trợ thủ đắc lực cho ngành du lịch",
+      "sub_title_2": "Trợ lý số trong ngành Khách sạn và F&B",
+      "assistant_1": {
+        "title": "Trải nghiệm Văn hóa",
+        "description": "Trợ lý số được trang bị AI cho phép du khách khám phá sâu về văn hóa và lịch sử địa phương một cách dễ dàng và chính xác. Nó cung cấp những hiểu biết chi tiết và trải nghiệm độc đáo tại mỗi điểm tham quan, đảm bảo du khách có thể khám phá với chiều sâu và độ chính xác cao."
+      },
+      "assistant_2": {
+        "title": "Giao tiếp Đa ngôn ngữ",
+        "description": "Hỗ trợ hơn 50 ngôn ngữ, trợ lý số giúp các công ty du lịch giao tiếp hiệu quả với du khách quốc tế. Điều này đảm bảo rằng các hướng dẫn viên có thể dẫn dắt các nhóm đa quốc gia mà không gặp rào cản ngôn ngữ, tối đa hóa sự hài lòng của khách hàng và nâng cao trải nghiệm du lịch."
+      },
+      "assistant_3": {
+        "title": "Lên kế hoạch và Đặt chỗ Du lịch",
+        "description": "Trợ lý số đơn giản hóa quy trình đăng ký du lịch bằng cách cung cấp tư vấn toàn diện và hỗ trợ đặt chỗ. Từ thủ tục visa đến các chuyến đi ngắn và dài, trong nước và quốc tế, giúp thực hiện các giao dịch suôn sẻ và tiện lợi, biến việc lên kế hoạch du lịch trở nên không căng thẳng."
+      },
+      "assistant_4": {
+        "title": "Hỗ trợ Khách hàng 24/7 trong Ngành Khách sạn",
+        "description": "Trợ lý số được tích hợp AI cung cấp hỗ trợ 24/7, đảm bảo sự chăm sóc chu đáo và thoải mái cho khách hàng từ khi nhận phòng đến khi trả phòng. Trợ lý số lắng nghe và hỗ trợ mọi nhu cầu của khách, nâng cao toàn diện trải nghiệm dịch vụ khách sạn."
+      },
+      "assistant_5": {
+        "title": "Trải nghiệm Khách hàng Cá nhân hóa",
+        "description": "Trợ lý số liên tục cập nhật cơ sở dữ liệu khách hàng, cho phép tạo ra những trải nghiệm lưu trú cá nhân hóa cao. Trợ lý số hiểu chính xác và đáp ứng nhu cầu cũng như sở thích của khách quay lại, khiến mỗi lần ghé thăm trở nên độc đáo và đáng nhớ."
+      },
+      "assistant_6": {
+        "title": "Tối ưu hóa Vận hành và Trải nghiệm Ẩm thực trong Ngành F&B",
+        "description": "Trong ngành F&B, trợ lý số tích hợp AI tối ưu hóa hoạt động vận hành bằng cách quản lý đặt chỗ, đơn hàng và các yêu cầu đặc biệt với độ chính xác cao. Đồng thời, phân tích dữ liệu khách hàng để đề xuất những trải nghiệm ẩm thực cá nhân hóa và cung cấp thông tin chi tiết về các món ăn cũng như quy tắc ăn uống, đảm bảo khách hàng có một hành trình ẩm thực trọn vẹn và thú vị."
+      }
+    },
+    "ads": {
+      "title_1": "Quảng cáo",
+      "title_2": "Cá nhân hóa",
+      "sub_title": "bởi Trí tuệ nhân tạo",
+      "description": "Tận dụng dữ liệu thời gian thực và hiểu biết sâu sắc về hành vi người tiêu dùng, AI-Personalized Ads tối ưu hóa quảng bá doanh nghiệp với nội dung được cá nhân hóa và chiến lược chuyên biệt; cách mạng hóa trải nghiệm khách hàng thông qua hành trình mua sắm cá nhân hóa, các ưu đãi đa dạng và chatbot đa chức năng đáp ứng nhu cầu của mọi phân khúc khách hàng.",
+      "ad_1": {
+        "title": "Tối ưu hóa Chiến dịch Quảng bá Doanh nghiệp",
+        "description": "AI-Personalized Ads tận dụng dữ liệu thời gian thực và hiểu biết sâu sắc về văn hóa để tạo ra nội dung được cá nhân hóa và các chiến lược truyền thông sáng tạo, phù hợp hoàn hảo với mong muốn của khách hàng và tối ưu hóa nỗ lực quảng bá để đạt hiệu quả cao nhất."
+      },
+      "ad_2": {
+        "title": "Cách mạng hóa Trải nghiệm Khách hàng",
+        "description": "AI-Personalized Ads cá nhân hóa mọi bước trong hành trình mua sắm, cung cấp các gói đa dạng, độc quyền và dịch vụ toàn diện thông qua chatbot đa chức năng, đảm bảo sự tương tác liên tục và hài lòng cho tất cả các phân khúc khách hàng."
+      }
+    },
+    "business_intelligence": {
+      "title_1": "Trí tuệ",
+      "title_2": "Kinh doanh",
+      "sub_title": "Tích hợp Trí tuệ nhân tạo",
+      "description": "Trí tuệ Kinh doanh Tích hợp AI biến dữ liệu thành sức mạnh kinh doanh, tối ưu hóa quá trình ra quyết định với khả năng phân tích tức thì các tập dữ liệu lớn, tích hợp văn hóa dữ liệu vào cốt lõi, và cung cấp các dự báo chính xác giúp doanh nghiệp luôn dẫn đầu trong hoạch định chiến lược và nắm bắt cơ hội.",
+      "bi_1": {
+        "title": "Phân tích Dữ liệu Tức thì phục vụ việc ra Quyết định Tối ưu",
+        "description": "Giải pháp Trí tuệ Kinh doanh được tích hợp AI cho phép truy cập và phân tích nhanh chóng các tập dữ liệu lớn, phức tạp, giúp doanh nghiệp đưa ra quyết định sáng suốt ngay lập tức."
+      },
+      "bi_2": {
+        "title": "Tích hợp và Hội nhập Văn hóa dữ liệu",
+        "description": "Giải pháp này thấm nhuần văn hóa dữ liệu sâu vào doanh nghiệp bằng cách xử lý dữ liệu nhanh chóng và phản hồi các yêu cầu đột xuất."
+      },
+      "bi_3": {
+        "title": "Dự báo Liên tục để Tạo Lợi thế Chiến lược",
+        "description": "Bằng cách liên tục phân tích dữ liệu lịch sử và hiện tại, giải pháp Trí tuệ Kinh doanh được tích hợp AI cung cấp các dự báo với độ chính xác cao."
+      }
+    }
+  },
+  "demo_title": "Bạn đã sẵn sàng đi trước một bước cùng AIAIVN?",
+  "demo_btn": "ĐẶT LỊCH DEMO"
+}
