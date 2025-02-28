@@ -34,17 +34,7 @@ OpenAI Chúng tôi tận dụng các mô hình generative tiên tiến của Ope
 Microsoft Azure Với hạ tầng đám mây mạnh mẽ của Microsoft Azure, chúng tôi đảm bảo các giải pháp của mình có khả năng mở rộng cao, bảo mật và đáp ứng nhu cầu triển khai đa dạng, cho phép chúng tôi nhanh chóng thích ứng với các yêu cầu kinh doanh thay đổi.
 Các dịch vụ phân tích và AI của Google Cloud cho phép chúng tôi cá nhân hóa trải nghiệm người dùng dựa trên những hiểu biết từ dữ liệu và khả năng phản hồi theo thời gian thực, nâng cao chất lượng tương tác cho khách hàng
 AWS Cloud  cung cấp một môi trường mạnh mẽ và linh hoạt để lưu trữ các ứng dụng của chúng tôi, đảm bảo hiệu suất ổn định và hoạt động GenAI liền mạch ở mọi quy mô.
-Ban Cố Vấn Kỹ Thuật
 Một đội ngũ ưu tú gồm các lãnh đạo trong ngành và học giả hàng đầu, kết hợp giữa chuyên môn tiên tiến từ Microsoft, Meta, Google, Amazon và các startup tiên phong, nhằm thúc đẩy đổi mới công nghệ của chúng tôi và duy trì lợi thế cạnh tranh trong bối cảnh GenAI đang phát triển nhanh chóng
-Mr. James Nguyen Kiến trúc sư chính về giải pháp điện toán đám mây tại Microsoft
-Mr. Nguyen Bach Kỹ sư chính tại Microsoft - Tiến sĩ tốt nghiệp từ Đại học Carnegie Mellon (Hoa Kỳ)
-Mr. Hoang Trinh Quản lý ML & AI tại Meta - Nguyên Kỹ sư ML cao cấp tại Ebay
-Mr. Vu Le Quản lý nghiên cứu chính tại Microsoft - Tiến sĩ tốt nghiệp từ Đại học California (Hoa Kỳ)
-Mr. Andrew Do Lãnh đạo Giải pháp Kỹ thuật tại Google
-Mr. Lan Duy Nguyen Cofounder & Phó Chủ tịch tại Veramine Inc.Nguyên Kỹ sư cao cấp tại MicrosoftTiến sĩ tốt nghiệp, Đại học Wollongong (Australia)
-Mr. Khang Doan Kỹ sư phần mềm tại StripeNguyên Kỹ sư cao cấp tại Amazon Nguyên Kỹ sư tại IBM
-Mr. Binh Pham Kiến trúc sư cao cấp tại NVIDIA Nguyên Nhà nghiên cứu tại Intel (Qualcomm) Tiến sĩ tốt nghiệp từ Đại học Rutgers (Hoa Kỳ)
-Mr. Thuan Duong Ba kỹ sư phát triển phần mềm cao cấp tại Amazon AWS
-Mr. Huy Bui Kỹ sư cao cấp tại Meta;Nguyên Kỹ sư cao cấp tại Amazon và Microsoft
-Mr. Alan Luu Kiến trúc sư doanh nghiệp quản lý tại Capgemini; Nguyên Kiến trúc sư dữ liệu chính tại Asendia USA
-Mr. Christopher Peery Kỹ sư phần mềm cao cấp tại Amazon; Tiến sĩ tốt nghiệp từ Đại học Rutgers (Hoa Kỳ)
+Ban Cố Vấn Kỹ Thuật Mr. James Nguyen Kiến trúc sư chính về giải pháp điện toán đám mây tại Microsoft,Mr. Nguyen Bach Kỹ sư chính tại Microsoft - Tiến sĩ tốt nghiệp từ Đại học Carnegie Mellon (Hoa Kỳ),Mr. Hoang Trinh Quản lý ML & AI tại Meta - Nguyên Kỹ sư ML cao cấp tại Ebay,Mr. Vu Le Quản lý nghiên cứu chính tại Microsoft - Tiến sĩ tốt nghiệp từ Đại học California (Hoa Kỳ),Mr. Andrew Do Lãnh đạo Giải pháp Kỹ thuật tại Google,Mr. Lan Duy Nguyen Cofounder & Phó Chủ tịch tại Veramine Inc.Nguyên Kỹ sư cao cấp tại MicrosoftTiến sĩ tốt nghiệp, Đại học Wollongong (Australia),Mr. Khang Doan Kỹ sư phần mềm tại StripeNguyên Kỹ sư cao cấp tại Amazon Nguyên Kỹ sư tại IBM,Mr. Binh Pham Kiến trúc sư cao cấp tại NVIDIA Nguyên Nhà nghiên cứu tại Intel (Qualcomm) Tiến sĩ tốt nghiệp từ Đại học Rutgers (Hoa Kỳ),Mr. Thuan Duong Ba kỹ sư phát triển phần mềm cao cấp tại Amazon AWS,Mr. Huy Bui Kỹ sư cao cấp tại Meta;Nguyên Kỹ sư cao cấp tại Amazon và Microsoft,Mr. Alan Luu Kiến trúc sư doanh nghiệp quản lý tại Capgemini; Nguyên Kiến trúc sư dữ liệu chính tại Asendia USA,Mr. Christopher Peery Kỹ sư phần mềm cao cấp tại Amazon; Tiến sĩ tốt nghiệp từ Đại học Rutgers (Hoa Kỳ)
+Thông tin liên hệ Ms. Nguyễn Thị Thùy Trang Trưởng phòng Sale & Marketing trang@aiaivn.com 0986 489 492 
+Địa chỉ công ty Tầng 6, 484-486 Đường 2/9, Quận Hải Châu Tầng 5, Tòa nhà Scetpa, 19A Đường Cộng Hoà, Quận Tân Bình

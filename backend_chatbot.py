@@ -80,7 +80,7 @@ def summarize_results(results,query):
             {"role": "user", "content": prompt}
         ],
         temperature=0.5,
-        max_tokens=200,  
+        max_tokens=500,  
     )
     
     summary = response.choices[0].message.content
